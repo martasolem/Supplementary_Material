@@ -8,7 +8,8 @@ The files report the estimates presented in the Supplementary Material together 
 
 ## Accessing the supplementary tables
 
-The supplementary tables are provided as Excel workbooks. Anonymous GitHub does not support the direct preview of `.xlsx` files.
+The supplementary tables are provided as Excel workbooks. 
+Anonymous GitHub does not support the direct preview of `.xlsx` files.
 
 To download a workbook:
 
