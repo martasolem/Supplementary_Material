@@ -17,11 +17,3 @@ To download a workbook:
 3. Open the downloaded workbook in Microsoft Excel or another compatible spreadsheet application.
 
 Please note that any unreadable characters displayed in the browser represent the binary content of the Excel workbook and do not indicate that the file is corrupted.
-
-- [Open Tables S.1a–S.1f](Tables_S1a-S1f.xlsx)
-- [Open Tables S.2a–S.2f](Tables_S2a-S2f.xlsx)
-- [Open Tables S.3a–S.3c](Tables_S3a-S3c.xlsx)
-- [Open Tables S.4a–S.4f](Tables_S4a-S4f.xlsx)
-- [Open Tables S.5a–S.5f](Tables_S5a-S5f.xlsx)
-- [Open Tables S.6a–S.6f](Tables_S6a-S6f.xlsx)
-- [Open Tables S.7a–S.7f](Tables_S7a-S7f.xlsx)
